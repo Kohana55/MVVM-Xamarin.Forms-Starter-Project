@@ -11,6 +11,7 @@ namespace DataBinding
     {
         HttpClient _httpClient;
         ReqVars vars = new ReqVars();
+        int test = 0;
 
 
         public APIClient()
